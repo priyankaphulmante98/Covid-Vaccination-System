@@ -1,7 +1,7 @@
 # Corona_vaccine
 
 
-> Skill-Up is a global destination for teaching and learning online. It is a unique project and we've made some interesting changes where a user and admin can both login in different pages and changes made in a admin's page , can be seen in the user's page .  
+> Register or Sign In for Vaccination. An generate the random number OTP will be sent to your mobile number for verification. GET OTP. By Sign In/Registration, I agree to the Terms of then user can be entered in dashboard page and select the Name, Age, Designation, Priority, vaccine, information is submitted, if you have sucessfully vaccinted then your data strore be in our local storage.
 
 ## Built With
 
