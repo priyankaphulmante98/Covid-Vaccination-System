@@ -1,0 +1,75 @@
+body{
+  font-family: "Poppins", sans-serif;
+  color:white;
+  font-size: larger;
+/* background-color: rgba(0, 0, 0, 0.849); */
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPT0VDEDSSZvBigMJiEUhWynrnUm8jEBtDUg&usqp=CAU");
+  background-size: cover;
+  background-attachment: fixed;
+}
+  navbar{
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(22, 73, 226);
+  
+  font-weight: bold;
+  font-size: 32px;
+  padding: 0.5rem;
+}
+navbar div a{
+  text-decoration: none;
+  color: white;
+    }
+    
+h1{
+    text-align: center;
+    color:white;
+    margin:15 15 15 15;
+}
+  #form{
+  
+    width: 400px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    background: linear-gradient(to right, whitesmoke, #2989c9);
+
+  }
+  input[type="text"],
+  input[type="number"],
+  select,
+  textarea {
+    width: 90%;
+    /* text-align: center; */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    /* box-sizing: border-box; */
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type="submit"] {
+    background-color: #2b619e;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 50%;
+    font-size: 20px;
+    margin-left: 90px;
+  }
+  
+  #button:hover {
+    background-color: #3973b6;
+   
+  }
+ 
+ 
